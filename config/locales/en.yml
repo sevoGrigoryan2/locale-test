@@ -2,3 +2,304 @@ en:
   key_one: "value"
   key_two: "value"
   key_three: "value"
+  key_three: "value"
+  repurchasable: Repurchasable
+  restrict_forwarding: Restrict Forwarding
+  retakes: Retakes
+  search_keywords: Search Keywords
+  sellable_item_id: Sellable Item ID
+  show_summary_for_failed: Show summary for failed answers
+  show_summary_for_passed: Show summary for passed answers
+  state: State or Province
+  timezone: Timezone
+  track: Track
+  tracks: Tracks
+  type: Type
+  uid: UID
+  url: URL
+  user: User
+  user_id: User ID
+  user_key: User Key
+  username: Username
+  date_and_time: Date & Time
+  date_range_help_prefix: This report is filtered to show activity between
+  date_used: Date Used
+  day: D
+  day_filter_tooltip_text: Last 24 hours
+  days: days
+  days_count:
+    one: 1 Day
+    other: "%{count} Days"
+  days_quantity:
+    one: "%{count} day"
+    other: "%{count} days"
+  days_till_expiry_label: "# of days until expiration"
+  dear: Dear
+  default: Default
+  default_content: Default-Content
+  default_content_group_hint_text: Automatically add this group when creating content
+  default_group_error_message: Another group is already marked as the default group.
+  default_group_hint_text: Make this the group all users are placed in by default
+  default_spreedly_error_message: An error occurred during your transaction. There could be an issue with the account gateway. Please contact customer support.
+  default_technical_support: Default Technical Support
+  default_users: Default-Users
+  delete: Delete
+  delete_completions_warning: 'Warning: this will also delete all user responses and reports.'
+  delete_confirm: Are you sure you want to delete this %{model}?
+  delete_course_item: Deleting this %{item} will permanently remove it from all courses that it may be currently used in.
+  delete_course_item_link: Delete Anyway
+  delete_course_link: Delete Anyway
+  delete_course_message: Deleting this course will remove it permanently.
+  delete_credit_card_link: Delete Anyway
+  delete_credit_card_message: Deleting this credit card will remove it permanently.
+  delete_event_link: Delete Anyway
+  delete_event_message: Deleting this event will permanently remove it and all its presentations.
+  delete_item_confirm: Are you sure you want to delete %{item}?
+  delete_library_presentation_warning: Deleting this presentation will permanently remove it from the library.
+  delete_order_help_text: If this is a test order, you can also %{delete_link} it
+  delete_page: Delete Page
+  delete_product_bundle_link: Delete Anyway
+  delete_product_bundle_message: Deleting this product bundle will remove it permanently.
+  delete_section_link: Delete Anyway
+  delete_section_message: Deleting this section will remove it permanently.
+  delete_success: "%{model} deleted successfully"
+  delete_support_contact_link: Delete Anyway
+  delete_support_contact_message: Deleting this support information will remove it permanently.
+  delete_survey_question_warning: Deleting this question may cause the reports to lose the answers. Delete anyway?
+  delete_theme: Delete Theme
+  delete_user_confirm: Are you sure you want to delete this user?
+  delete_webinar_link: Delete Anyway
+  delete_webinar_message: Deleting this live web event will remove it permanently.
+  delete_webinar_report_message: Deleting this live web event will also remove all reports.
+  demographic_keys: Demographic keys
+  demographic_values_help_text_for_aa: Use attribute code to match with @ symbol for data type (char/number/date). e.g. CUST_PTIN@char. Separate additional mapping values with a pipe.)
+  demographic_values_help_text: List demographic keys separated by a Pipe "|" you wish to synchronize
+  demographic_values_semicolon_help_text: List demographic keys separated by a Semicolon ";" you wish to synchronize
+  description: Description
+  detailed_system_requirements: Detailed Requirements
+  details: Details
+  disable_course_caching: Disable course caching
+  disabled: Disabled
+  discount: Discount
+  discount_code_sync: Discount Code Sync
+  discount_coupon: Discount coupon
+  discounted_total: Discounted Total
+  discussion: Discussion
+  discussion_course_helptext: Allow/display discussion on the course page
+  discussion_course_item: Course item discussion
+  discussion_course_item_helptext: Allow/display discussion on course item pages
+  discussion_course_item_tooltip: Discussion will not appear on Assessments and Surveys
+  discussion_event_helptext: Allow/display discussion for this event
+  discussion_event_items_helptext: Allow/display discussion on the event items pages
+  discussion_library_helptext: Allow/display discussion on the presentation page
+  discussion_title: Discussion (by Disqus)
+  dismiss: Dismiss
+  display_course_card_meta_info: Display course item icons and counts on course cards?
+  disqus_enable_sso_warning: 'Please note: prior to activating, you must submit <a href="http://disqus.com/support/?article=contact_SSO" target="_blank">this form</a> while logged in as a Disqus moderator and request they <strong>"enable SSO Access on your account"</strong>. This is required for our system to be able to send user info to your Disqus account.'
+  do_not_allow_cancellations: Do not allow cancellations
+  do_not_allow_cancellations_hint: Users won't be able to cancel their registration for this webinar
+  document: Document
+  document_created_message: Document created successfully.
+  document_url_text_label: Attachment Link Text
+  document_url_text_placeholder: Blue Sky Procedures Doc
+  documents: Documents
+  dollar_credits: Dollar Credits
+  done: Done
+  doorkeeper:
+    actions: Actions
+    application: 'Application:'
+    application_id: 'Application Id:'
+    authorization: 'Link to authorization code:'
+    authorize: Authorize
+    callback_url: Callback url
+    callback_urls: 'Callback urls:'
+    disabled: You can't create or update application
+    errors:
+      messages:
+        access_denied: The resource owner or authorization server denied the request.
+        credential_flow_not_configured: Resource Owner Password Credentials flow failed due to Doorkeeper.configure.resource_owner_from_credentials being unconfigured.
+        invalid_client: Client authentication failed due to unknown client, no client authentication included, or unsupported authentication method.
+        invalid_grant: The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client.
+        invalid_redirect_uri: The redirect uri included is not valid.
+        invalid_request: The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed.
+        invalid_resource_owner: The provided resource owner credentials are not valid, or resource owner cannot be found
+        invalid_scope: The requested scope is invalid, unknown, or malformed.
+        invalid_token:
+          expired: The access token expired
+          revoked: The access token was revoked
+          unknown: The access token is invalid
+        resource_owner_authenticator_not_configured: Resource Owner find failed due to Doorkeeper.configure.resource_owner_authenticator being unconfiged.
+        server_error: The authorization server encountered an unexpected condition which prevented it from fulfilling the request.
+        temporarily_unavailable: The authorization server is currently unable to handle the request due to a temporary overloading or maintenance of the server.
+        unauthorized_client: The client is not authorized to perform this request using this method.
+        unsupported_grant_type: The authorization grant type is not supported by the authorization server.
+        unsupported_response_type: The authorization server does not support this response type.
+    flash:
+      applications:
+        create:
+          notice: Application created.
+        destroy:
+          notice: Application deleted.
+        update:
+          notice: Application updated.
+      authorized_applications:
+        destroy:
+          notice: Application revoked.
+    list: List all
+    name: Name
+    secret: 'Secret:'
+    your_applications: Your applications
+  download: Download
+  download_audio_tooltip: Download audio
+  download_slides_tooltip: Download slides
+  duplicate_record: Duplicate record
+  duration: Duration
+  ecommerce_confirm: All your items with prices will automatically retain the highest price from range.
+  ecommerce_event_sync: e-Commerce / Event Sync
+  edit: Edit
+  edit_access_code: Edit Access Code
+  edit_assessment: Edit Assessment
+  edit_assessment_link: Edit
+  edit_attachment: edit attachment
+  edit_attributes: Edit Attributes
+  edit_audio: Edit Audio
+  edit_callback: Edit Callback
+  edit_category: Edit Category
+  edit_certificate: Edit Certificate
+  edit_content_prompt: Edit Prompt Template
+  edit_coupon: Edit Coupon
+  edit_course: Edit Course
+  edit_course_item: Edit
+  edit_course_link: Edit
+  edit_design: Edit Design
+  edit_event: Edit Event
+  edit_event_link: Edit
+  edit_filename: Edit Filename
+  edit_group: Edit Group
+  edit_item_category_warning: 'Warning: Changing the parent will also place existing presentations assigned to this category under the new parent.'
+  edit_link: edit link
+  edit_page_info: Edit Info/Description
+  edit_page_info_link: Edit page info
+  edit_partner: Edit Partner
+  edit_presentation: Edit Presentation
+  edit_presentation_link: Edit
+  edit_product_bundle: Edit Product Bundle
+  edit_profile: Edit Profile
+  edit_question: Edit Question
+  edit_question_pool: Edit Question Pool
+  edit_scorm: Edit SCORM
+  edit_support_button: Edit
+  edit_support_information: Edit Support Information
+  edit_survey: Edit Survey
+  edit_survey_link: Edit
+  edit_user: Edit User
+  edit_video: Edit Video
+  edit_webinar: Edit Live Web Event
+  educational_resource: Educational Resource
+  educational_resources: Resources
+  elearning: eLearning
+  eligible_items: Eligible Items
+  email: Email
+  email_addresses: Email Addresses
+  email_description: Email description
+  email_description_tooltip_text: Write a short description for this web event that will appear in registration confirmation and reminder emails.
+  email_options_tab: Email Options
+  email_template_for_webinar: Email Template
+  email_template_type: Type of template
+  emails: Emails
+  embed_code: Embed Code
+  empty_archived_webinars_message: You have not registered for any archived live web events.
+  empty_groups_warning: Groups are empty
+  empty_language_warning: Language was empty
+  empty_message:
+    archived_web_events: There are currently no archived web events.
+    live_events: There are currently no live events.
+    live_web_events: There are currently no live web events.
+    on_demand_events: There are currently no on-demand events.
+    past_live_events: There are currently no past live events.
+  empty_past_live_events_message: You have not registered for any past live events.
+  empty_upcoming_live_events_message: You have not registered for any upcoming live events.
+  empty_upcoming_webinars_message: You have not registered for any upcoming live web events.
+  empty_webinars_message: You have not registered for any live web events.
+  enable_captions: Enable captions
+  enable_captions_hint: Determines whether captions will display automatically for this video when it loads.
+  enable_discussion_hint: Allow/display discussion
+  enable_webinars_api: Enable Webinars API
+  enable_writeback_external_id: Enable Writeback with External ID
+  end_date: End Date
+  end_meeting: End Meeting
+  end_meeting_reject_message: Meetings cannot be ended before their start times.
+  end_meeting_url: End meeting URL
+  end_meeting_url_has_been_visited: This link has been visited, and is expired
+  end_meeting_url_has_not_been_visited: This link has not been visited
+  end_webinar: End Live Web Event
+  end_webinar_confirm_text: Are you sure you want to end this event? Clicking yes will end the event for everyone currently attending and close registration.
+  enforce_sellable_status: Beta Group Pricing
+  english: English
+  enter_email: Enter email
+  enter_name: Enter name
+  enter_notification_email: enter email adress to receive notifications
+  error_messages: Error Messages
+  error_pages:
+    404_content: You may have mistyped the address or the page may have moved. Please try refreshing the page or <a href="javascript:history.back()">go back</a>.
+    404_title: The page you were looking for doesn't exist
+    422_content: Maybe you tried to change something you didn't have access to. Please try refreshing the page or <a href="javascript:history.back()">go back</a>.
+    422_title: The change you wanted was rejected
+    500_content: Usually this means that an unexpected error happened while processing your request. Please try refreshing the page or <a href="javascript:history.back()">go back</a>.
+    500_title: Sorry, there was a problem serving the requested page
+  errors:
+    blank: can't be blank
+    expired: is expired
+    invalid: is invalid
+    invalid_emails: has invalid email(s)
+    make_selection: make a selection
+    messages:
+      after: must be after %{restriction}
+      already_exists: already exists
+      before: must be before %{restriction}
+      blank: can't be blank
+      carrierwave_download_error: Couldn't download image.
+      carrierwave_integrity_error: Not an image.
+      carrierwave_processing_error: Cannot resize image.
+      email: is invalid
+      extension_black_list_error: 'You are not allowed to upload %{extension} files, prohibited types: %{prohibited_types}'
+      extension_blacklist_error: 'You are not allowed to upload %{extension} files, prohibited types: %{prohibited_types}'
+      extension_white_list_error: 'You are not allowed to upload %{extension} files, allowed types: %{allowed_types}'
+      extension_whitelist_error: 'You are not allowed to upload %{extension} files, allowed types: %{allowed_types}'
+      invalid_date: is not a valid date
+      invalid_datetime: is not a valid datetime
+      invalid_time: is not a valid time
+      is_at: must be at %{restriction}
+      on_or_after: must be on or after %{restriction}
+      on_or_before: must be on or before %{restriction}
+      unique: must be unique
+    missed_params: 'Missed parameter(s): %{params}'
+    prices_blank: Prices can't be blank
+    sso:
+      asms_oauth_error: Access is only available to registered conference attendees. To access the content, please Sign In to this site using your ASMS credentials (Login ID and password).
+      association_anywhere:
+        invalid_credentials: Incorrect username or password. Please check your credentials and try again, or click the <a href='%{forgot_password_url}' target='_blank'>"Forgot password?"</a> link below to reset your password.
+      auth_failed_flash_msg: Authentication failed, username or password is incorrect
+      clear_vantage:
+        invalid_credentials: Incorrect username or password. Please check your credentials and try again, or click the <a href='%{forgot_password_url}' target='_blank'>"Forgot password?"</a> link below to reset your password.
+      invalid_credentials: Incorrect username or password. Please check your credentials and try again, or click the <a href='%{forgot_password_url}' target='_blank'>"Forgot password?"</a> link below to reset your password.
+      mrc_train:
+        course_not_found: Course could not be located in the Path LMS. <a href=%{path_url}>Explore Courses</a> or return to <a href=%{train_url}>TRAIN</a>
+      oauth_error: There was an error logging into the remote authentication service. You have not been signed in.
+      your_membership:
+        quota_exceeded: Provider's requests limit exceeded, please try again in a few minutes.
+  event: event
+  event_archive: Events
+  event_code: Event code
+  event_cover_description_tooltip_text: This shorter description will display on the homepage or event listing page only.
+  event_cover_photo: Cover photo
+  event_cover_photo_description: Cover description
+  event_cover_photo_tooltip_text: This photo will be displayed on the homepage or event listing page to entice customers to click and find out more about the event.
+  event_create_success: Event created successfully.
+  event_date_range_tooltip_text: Assign the date range for the on-demand event. A filter for the presentations will automatically be created with the appropriate days.
+  event_description: Description
+  event_description_placeholder: What is the purpose of this event?
+  event_description_tooltip_text: This description box will appear on the actual on-demand event page.
+  event_discussion: Event discussion
+  event_ended_on: Ended on
+  event_featured: Featured
