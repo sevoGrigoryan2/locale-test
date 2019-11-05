@@ -1,4 +1,4 @@
 en:
   aaps:
     bad_password_error: The username and password that you have provided does not match our records. Please verify your credentials and try again.
-    bad_username_error: The username that you have provided does not match our records. Please verify your credentials and try again or <a href=" http://members.aaps.org/Core/CreateAccount.aspx">click here to register</a>.
+    bad_username_error: The username that you have provided does not match our records.
