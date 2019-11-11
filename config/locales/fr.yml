@@ -1,5 +1,4 @@
 ---
-  lipstick: "💄"
-  new_key1: "un"
-  toto: "ok!"
-  key_three: "value"
+  lipstick: 
+    - "�"
+    - "�"
