@@ -1,3 +1,5 @@
 en:
   aaps:
     bad_password_error: The username and password that you have provgided does not match our records. Please verify your credentials and try again.
+    bad_password_error: The username and password that you have provgided does not match our records. Please verify your credentials and try again.
+
