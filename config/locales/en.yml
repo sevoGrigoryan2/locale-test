@@ -200,7 +200,7 @@ en:
         format: "%n%"
     precision:
       format:
-        delimiter: 'unit-check'
+        delimiter: '                                    '
   support:
     array:
       last_word_connector: ", and "
