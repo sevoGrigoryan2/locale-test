@@ -176,9 +176,9 @@ en:
           quadrillion: Quadrillion
           thousand: Thousand
           trillion: Trillion
-          unit: ''
+          unit: 'unit-check'
       format:
-        delimiter: ''
+        delimiter: 'unit-check'
         precision: 3
         significant: true
         strip_insignificant_zeros: true
@@ -196,11 +196,11 @@ en:
           tb: TB
     percentage:
       format:
-        delimiter: ''
+        delimiter: 'unit-check'
         format: "%n%"
     precision:
       format:
-        delimiter: ''
+        delimiter: 'unit-check'
   support:
     array:
       last_word_connector: ", and "
