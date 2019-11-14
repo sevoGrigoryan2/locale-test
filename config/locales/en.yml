@@ -178,7 +178,7 @@ en:
           trillion: Trillion
           unit: 'unit-check'
       format:
-        delimiter: 'unit-check'
+        delimiter: 'unit-check-test'
         precision: 3
         significant: true
         strip_insignificant_zeros: true
