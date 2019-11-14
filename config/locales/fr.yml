@@ -2,3 +2,8 @@
   lipstick: 
     - "�"
     - "�"
+  fr: 
+    number: 
+      human: 
+        format: 
+          delimiter: "[translated] unit-check-test"
