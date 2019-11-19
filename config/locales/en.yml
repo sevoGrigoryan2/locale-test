@@ -205,7 +205,6 @@ en:
       enable_custom_domain: Enable custom domain
       enable_custom_domain_redirect: Enable redirect to custom domain
       enable_live_stream_embed: Enable Live Stream Embed
-      enable_subdomain: Enable subdomain
       enable_webinar_providers:
         adobe_connect: Enable Custom Adobe Connect
         goto_meeting: Enable Custom GoToMeeting
