@@ -2,3 +2,5 @@ fr:
   lipstick: 💄
   toto: ok!
   new_key1: un
+  test: ""
+  testSecond: null
