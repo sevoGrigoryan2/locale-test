@@ -1,3 +1,4 @@
 en:
-  test: ""
-  testSecond: null
+  test: ''
+fr:
+  testSecond: '[translated] correct'
