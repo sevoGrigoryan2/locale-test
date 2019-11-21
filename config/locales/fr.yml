@@ -1,3 +1,5 @@
 en:
-  test: ""
+  test: ''
   testSecond: null
+fr:
+  newKey: '[translated] newUpdatedKey'
