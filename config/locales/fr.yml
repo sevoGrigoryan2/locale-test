@@ -1,3 +1,16 @@
 en:
-  test: ""
   testSecond: null
+fr:
+  month_names:
+    - '[translated] January'
+    - '[translated] February'
+    - '[translated] March'
+    - '[translated] April'
+    - '[translated] May'
+    - '[translated] June'
+    - '[translated] July'
+    - '[translated] August'
+    - '[translated] September'
+    - '[translated] October'
+    - '[translated] November'
+    - '[translated] December'
