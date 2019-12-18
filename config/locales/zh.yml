@@ -1,6 +1,4 @@
-fr:
-  test: ''
-  testSecond: null
+zh:
   month_names:
     - '[translated] January'
     - '[translated] February'
