@@ -1,3 +1,4 @@
 fr:
-  test: ""
+  test: ''
   testSecond: null
+  error: '[translated] Invalid username'
