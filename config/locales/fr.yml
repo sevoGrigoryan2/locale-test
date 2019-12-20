@@ -1,3 +1,4 @@
 fr:
-  test: ""
+  test: ''
   testSecond: null
+  errorMessage: '[translated] Invalid password'
