@@ -1,4 +1,2 @@
-fr:
-  test: ''
-  testSecond: null
+zh:
   errorMessage: '[translated] Invalid password'
